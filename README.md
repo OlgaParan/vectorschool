@@ -1,1 +1,1 @@
-# Text claffificator
+# Classifier of letters
